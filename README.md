@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building and deploying production ML systems for 3D/point-cloud data at Havells India, along with scalable AI applications and intelligent interfaces.<br><br>🌱 I’m currently learning:<br>System Design, MLOps, and advanced backend engineering for high-performance applications.<br><br>👯 I’m looking to collaborate on:<br>AI/ML, LLM-powered apps, and full-stack systems solving real-world industrial or data-driven problems.<br><br>🤝 I’m looking for help with:<br>Production ML scaling, distributed systems, and optimizing model inference pipelines.<br><br>💬 Ask me about:<br>PyTorch, ML system design, 3D data pipelines, React + Flask apps, and deploying ML in real-world environments.<br><br>⚡ Fun fact:<br>My ML models are actively used by engineering teams, reducing design iteration time and enabling faster decision-making.
+🔭 I’m currently working on:<br>Building and deploying production ML systems for 3D/point-cloud data at Havells India, along with scalable AI applications and intelligent interfaces.<br><br>🌱 I’m currently learning:<br>Advanced ML Design, MLOps, and advanced backend engineering for high-performance applications.<br><br>👯 I’m looking to collaborate on:<br>AI/ML, LLM-powered apps, and full-stack systems solving real-world industrial or data-driven problems.<br><br>🤝 I’m looking for help with:<br>Production ML scaling, distributed systems, and optimizing model inference pipelines.<br><br>💬 Ask me about:<br>PyTorch, ML system design, 3D data pipelines, React + Flask apps, and deploying ML in real-world environments.<br><br>⚡ My facts:<br>My ML models are actively used by engineering teams, reducing design iteration time and enabling faster decision-making.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jatin29AFK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
