@@ -88,7 +88,7 @@ An AI-powered resume and job description matcher designed to analyze role fit, A
 **Tech Stack:** FastAPI, React, Python, NLP, Gemini API, TF-IDF, Cosine Similarity, Resume Parsing
 
 > Live Demo: https://ai-resume-job-matcher-beta.vercel.app  
-> GitHub: Add your repository link here  
+> GitHub: https://github.com/Jatin29AFK/HireFit---AI_Resume_Job_Matcher
 
 ---
 
@@ -104,7 +104,7 @@ A research project focused on reducing post-harvest losses using IoT, Azure Digi
 
 **Tech Stack:** Raspberry Pi, Azure IoT, Azure Digital Twins, Machine Learning, Sensors, Predictive Analytics
 
-> Publication: Add your Springer publication link here  
+> Publication: https://link.springer.com/chapter/10.1007/978-981-96-9979-7_6
 
 ---
 
@@ -199,7 +199,7 @@ I’m especially interested in roles involving **LLMs, RAG systems, AI agents, M
 
 📧 Email: shukla.jeetu2550@gmail.com  
 🌐 Portfolio: https://port-folio-alpha-black.vercel.app  
-💼 LinkedIn: Add your LinkedIn URL here  
+💼 LinkedIn: https://www.linkedin.com/in/jatin-shukla-401739202  
 🐙 GitHub: https://github.com/Jatin29AFK  
 
 ---
