@@ -50,8 +50,8 @@ A full-stack multi-agent AI platform that routes user tasks across specialist ag
 
 **Tech Stack:** FastAPI, LangGraph, Groq, React, SQLite, Tailwind CSS, AI Agents, LLMs
 
-> Live Demo: Add your link here  
-> GitHub: Add your repository link here  
+> Live Demo: https://agent-flow-five-phi.vercel.app/  
+> GitHub: https://github.com/Jatin29AFK/AgentFlow--Multi-Agent-AI-Platform  
 
 ---
 
@@ -173,14 +173,6 @@ A research project focused on reducing post-harvest losses using IoT, Azure Digi
 **Post-Harvest Loss Mitigation and Smart Storage Management Using IoT and Azure Digital Twin**
 
 Published research on an IoT-enabled Digital Twin system for post-harvest loss reduction using Raspberry Pi, sensors, Azure Digital Twins, and ML-based predictive insights.
-
----
-
-##  GitHub Stats
-
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin29AFK&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin29AFK&layout=compact&theme=tokyonight)
 
 ---
 
