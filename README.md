@@ -1,11 +1,11 @@
 # Hi, I'm Jatin Shukla
-### AI/ML Engineer | AI Agent Deployment • GenAI • RAG • ML Systems • Full-Stack AI Products
+### AI/ML Engineer | AI Agent Deployment • GenAI • RAG • ML Systems • Full-Stack AI Products • MLOps
 
-I am an **AI/ML Engineer with around 3 years of experience** building and deploying AI agents, RAG systems, machine-learning models, and full-stack AI products.
+I am an **AI/ML Engineer with 3+ years of total experience** building and deploying AI agents, RAG systems, machine-learning models, and full-stack AI products.
 
-My work spans the complete AI delivery lifecycle: understanding business requirements, mapping workflows, designing prompt and tool logic, building product pilots, supporting UAT and deployment readiness, and improving solutions through stakeholder feedback and adoption loops.
+My work spans the complete AI delivery lifecycle: understanding business requirements, preparing and validating data, building models and agent workflows, and delivering reliable applications through API integration, containerized deployment, UAT, monitoring, and stakeholder feedback.
 
-Currently, I work as a **Senior Engineer – AI/ML at Havells India Ltd**, where I develop enterprise AI workflows and engineering-focused ML systems for HR automation, market intelligence, product evaluation, and internal productivity.
+Currently, I work as a **Senior Executive – AI at JB Emporium India**, based in **Gurugram, India**, building AI and data tools for enterprise sourcing and product workflows. Previously, I developed engineering-focused ML systems and enterprise GenAI solutions at **Havells India Ltd.**
 
 ---
 
@@ -16,15 +16,25 @@ Currently, I work as a **Senior Engineer – AI/ML at Havells India Ltd**, where
 - **Multi-Agent Systems** — supervisor planning, specialist agents, memory, reviewer layers, human approval, and execution traces
 - **Enterprise Automation** — Microsoft 365 Copilot Studio, Power Automate, SharePoint, Teams, validation flows, alerts, and reporting workflows
 - **Machine-Learning Systems** — PyTorch, Scikit-learn, feature engineering, model evaluation, optimized inference, and model serving
+- **MLOps & Production Reliability** — repeatable ML pipelines, containerized deployment, CI/CD, monitoring, logging, inference optimization, and fallback flows
+- **Cloud & Data Workflows** — Python, SQL, BigQuery, Azure, GCP, ETL/ELT, data pipelines, validation, and traceable outputs
 - **Full-Stack AI Products** — Python, FastAPI, Flask, React, Next.js, REST APIs, SQL, Docker, Vercel, Render, and Supabase
 
 ---
 
 ## Professional Experience
 
-### Senior Engineer – AI/ML | Havells India Ltd.
-**March 2026 – Present | Noida, India**
+### Senior Executive – AI | JB Emporium India
+**September 2026 – Present | Gurugram, India**
 
+- Build AI and data prototypes that turn scattered sourcing and product information into structured, searchable outputs using **Python, SQL, BigQuery, and LLM tools**.
+- Develop agentic and retrieval-based workflows with validation checks, transparent filters, and links back to source information.
+- Partner with business stakeholders to translate open-ended requirements into testable AI solutions and practical product workflows.
+
+### Senior Engineer – AI/ML | Havells India Ltd.
+**March 2026 – August 2026 | Noida, India**
+
+- Delivered **4+ GenAI and agentic solutions** across HR, market intelligence, and productivity workflows.
 - Built and deployed GenAI and AI-agent workflows for HR applicant shortlisting using resume parsing, JD matching, prompt logic, ranking, and reviewer checks, reducing manual screening effort by **40%+**.
 - Led an internal Microsoft 365-native market-intelligence agent deployment using **Copilot Studio, Power Automate, SharePoint, and Teams**, converting business workflows into agent topics, validation flows, alerts, and report outputs.
 - Owned workflow mapping, prompt testing, response refinement, UAT support, documentation, and issue-feedback loops to improve agent reliability, usability, and adoption.
@@ -36,7 +46,8 @@ Currently, I work as a **Senior Engineer – AI/ML at Havells India Ltd**, where
 - Built ML models for fan air delivery, velocity, and pressure prediction, improving engineering prediction accuracy by **18–22%**.
 - Developed LED heat-point estimation and thermal-analysis models, reducing design-evaluation turnaround by **35%**.
 - Engineered production inference pipelines using Python, PyTorch, Scikit-learn, feature scaling, Joblib, and optimized preprocessing, reducing end-to-end latency by **35%**.
-- Built internal AI applications using Flask/FastAPI-style APIs, React, and VTK.js, enabling **30+ engineers** to consume model outputs through structured interfaces and repeatable workflows.
+- Built internal AI applications using Flask/FastAPI REST APIs, React, and VTK.js, enabling **30+ engineers** to consume model outputs through structured interfaces and repeatable workflows.
+- Supported containerized delivery, Git-based CI/CD, and Azure deployment practices, with validation checks and documented model/API behavior.
 
 ---
 
@@ -203,6 +214,13 @@ A batch-processing system that compares AI-generated articles with authoritative
 ![Context Grounding](https://img.shields.io/badge/Context%20Grounding-16A34A?style=for-the-badge)
 ![Multi Agent](https://img.shields.io/badge/Multi--Agent%20Systems-7C3AED?style=for-the-badge)
 
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-9333EA?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0F766E?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-334155?style=for-the-badge)
+![Cross-Encoder Reranking](https://img.shields.io/badge/Cross--Encoder%20Reranking-7C3AED?style=for-the-badge)
+
 ### Programming, ML & Data
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -211,6 +229,8 @@ A batch-processing system that compares AI-generated articles with authoritative
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Engineering & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -222,6 +242,24 @@ A batch-processing system that compares AI-generated articles with authoritative
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### MLOps & Model Delivery
+![MLOps](https://img.shields.io/badge/MLOps-0F766E?style=for-the-badge)
+![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-334155?style=for-the-badge)
+![Model Serving](https://img.shields.io/badge/Model%20Serving-2563EB?style=for-the-badge)
+![Monitoring & Logging](https://img.shields.io/badge/Monitoring%20%26%20Logging-111827?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![Inference Optimization](https://img.shields.io/badge/Inference%20Optimization-7C3AED?style=for-the-badge)
+![Joblib](https://img.shields.io/badge/Joblib-F7931E?style=for-the-badge)
+![Kubernetes Fundamentals](https://img.shields.io/badge/Kubernetes%20Fundamentals-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Cloud & Data
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-0F766E?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-2563EB?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-16A34A?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9333EA?style=for-the-badge)
 
 ### Enterprise Platforms
 ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-742774?style=for-the-badge)
@@ -261,11 +299,15 @@ I am open to opportunities involving:
 - AI Agent Deployment and Product Delivery
 - RAG and LLM-Based Systems
 - Applied Machine Learning
+- Production ML and MLOps
+- Enterprise AI and Data Workflows
 - Conversational and Multi-Agent AI
 - Full-Stack AI Product Development
 
+📍 **Location:** Gurugram, India  
 📧 **Email:** shukla.jeetu2550@gmail.com  
 🌐 **Portfolio:** https://port-folio-alpha-black.vercel.app  
+📄 **Resume:** [View my latest resume](https://port-folio-alpha-black.vercel.app/Resume/JatinShukla_resume.pdf)  
 💼 **LinkedIn:** https://www.linkedin.com/in/jatin-shukla-401739202  
 🐙 **GitHub:** https://github.com/Jatin29AFK
 
