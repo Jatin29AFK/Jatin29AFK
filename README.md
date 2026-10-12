@@ -1,7 +1,7 @@
 # Hi, I'm Jatin Shukla
-### AI/ML Engineer | AI Agent Deployment • GenAI • RAG • ML Systems • Full-Stack AI Products • MLOps
+### Senior AI/ML Engineer | AI Agent Deployment • GenAI • RAG • ML Systems • Full-Stack AI Products • MLOps
 
-I am an **AI/ML Engineer with 3+ years of total experience** building and deploying AI agents, RAG systems, machine-learning models, and full-stack AI products.
+I am an **Senior AI/ML Engineer with 3+ years of total experience** building and deploying AI agents, RAG systems, machine-learning models, and full-stack AI products.
 
 My work spans the complete AI delivery lifecycle: understanding business requirements, preparing and validating data, building models and agent workflows, and delivering reliable applications through API integration, containerized deployment, UAT, monitoring, and stakeholder feedback.
 
